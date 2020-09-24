@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>french_dico.txt</file>
+    </qresource>
+</RCC>
