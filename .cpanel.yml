@@ -1,6 +1,6 @@
 ---
 deployment:
  tasks:
- - export DEPLOYPATH=/home/cuet_7126/public_html/
+ - export DEPLOYPATH=/home/cuet7126/public_html/
  - /bin/cp -R anagram_generator $DEPLOYPATH
  - /bin/cp README.md $DEPLOYPATH
